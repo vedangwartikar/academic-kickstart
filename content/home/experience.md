@@ -17,15 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Project Intern"
   company = "Persistent Systems"
   company_url = "https://www.persistent.com"
-  location = "Pune"
-  date_start = "2019-15-06"
-  date_end = "2019-22-07"
-  description = """
-  Worked on a <b>centralized Slack-API based DevOps Automation System</b> which manages automation tasks on interconnected PCs Automation scripts are written in Python with real-time messaging support from Slack-API. RedHat Ansible, isolated inside a Docker container, is used to deploy these scripts to target PCs
-  """
+  location = "Pune, India"
+  date_start = "2019-06-06"
+  date_end = "2020-06-06"
+  description = """Worked on <i> Slack-API based DevOps Automation System </i> under the guidance of Bharati Patidar. The project is built using Python, Docker, Ansible and focuses on automation tasks for multiplt PCs. """
 
 +++
