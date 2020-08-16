@@ -15,10 +15,10 @@ role: Final Year CSE Undergrad student
 # Organizations/Affiliations
 organizations:
 - name: Pune University
-  url: ""
+  url: "https://unipune.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Working on Personal Projects from multiple domains including ML/AI, Automation and DevOps
+bio: Software Engineer. Technology enthusiast.
 
 interests:
 - Data Science
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BE in Computer Engineering
+  - course: Bachelor of Engineering - Computer Engineering
     institution: Pune University
     year: 2020
   - course: Higher Secondary School
@@ -49,11 +49,17 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/vedangwartikar
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/vedangwartikar
+- icon: dev
+  icon_pack: fab
+  link: https://dev.to/vedangwartikar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://drive.google.com/file/d/1tk3AHdcfQYnme7cEfOMSFVhCmAkaU7uN/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a final year Undergrad fromPune University majoring in Computer Engineering. I am highly enthusiastic personal who loves to code and play Piano in my spare time.
+I'm a Software Engineer and a Technology enthusiast. Working on projects from multiple domains including, but not limited to, Data Science and Automation.
