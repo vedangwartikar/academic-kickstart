@@ -25,6 +25,6 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-06-06"
   date_end = "2020-06-06"
-  description = """Worked on <i> Slack-API based DevOps Automation System </i> under the guidance of Bharati Patidar. The project is built using Python, Docker, Ansible and focuses on automation tasks for multiplt PCs. """
+  description = """Worked on a centralized <i>Slack-API based DevOps System</i> which manages automation tasks on interconnected PCs. These tasks are being deployed using RedHat Ansible with the help of Docker containers. User level queries are processed using NLP."""
 
 +++
