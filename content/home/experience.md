@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2020-08-08"
   date_end = ""
-  description = """Restructuring transitions and providing functional enhancements for a Business Chatbot which is built using R tools. Solving Reprexes which will further be integrated with complex statistical models."""
+  description = """Restructuring transitions and providing functional enhancements for a Business Chatbot which is built using R tools and frameworks. Solving Reprexes which will further be integrated with complex statistical models."""
 
 [[experience]]
   title = "Project Intern"
