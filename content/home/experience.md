@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data Science Intern"
+  company = "Sirpi"
+  company_url = "https://sirpi.io"
+  location = "Bangalore, India"
+  date_start = "2020-08-08"
+  date_end = ""
+  description = """Restructuring transitions and providing functional enhancements for a Business Chatbot which is built using R tools. Solving Reprexes which will further be integrated with complex statistical models."""
+
+[[experience]]
   title = "Project Intern"
   company = "Persistent Systems"
   company_url = "https://www.persistent.com"
